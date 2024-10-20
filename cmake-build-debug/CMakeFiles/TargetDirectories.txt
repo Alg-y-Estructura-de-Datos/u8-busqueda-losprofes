@@ -1,0 +1,8 @@
+C:/Users/salce/OneDrive/Documentos/Programación III/Unidad 08 Busqueda/Ejercicios de Clase/cmake-build-debug/CMakeFiles/U08-E01.dir
+C:/Users/salce/OneDrive/Documentos/Programación III/Unidad 08 Busqueda/Ejercicios de Clase/cmake-build-debug/CMakeFiles/U08-E02.dir
+C:/Users/salce/OneDrive/Documentos/Programación III/Unidad 08 Busqueda/Ejercicios de Clase/cmake-build-debug/CMakeFiles/U08-E03.dir
+C:/Users/salce/OneDrive/Documentos/Programación III/Unidad 08 Busqueda/Ejercicios de Clase/cmake-build-debug/CMakeFiles/U08-E04.dir
+C:/Users/salce/OneDrive/Documentos/Programación III/Unidad 08 Busqueda/Ejercicios de Clase/cmake-build-debug/CMakeFiles/U08-E05.dir
+C:/Users/salce/OneDrive/Documentos/Programación III/Unidad 08 Busqueda/Ejercicios de Clase/cmake-build-debug/CMakeFiles/U08-E06.dir
+C:/Users/salce/OneDrive/Documentos/Programación III/Unidad 08 Busqueda/Ejercicios de Clase/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/salce/OneDrive/Documentos/Programación III/Unidad 08 Busqueda/Ejercicios de Clase/cmake-build-debug/CMakeFiles/rebuild_cache.dir
