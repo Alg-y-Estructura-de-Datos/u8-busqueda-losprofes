@@ -4,7 +4,7 @@
 using namespace std;
 
 // Función para buscar un número en una cola
-bool buscarEnCola(Cola<int> cola, int clave) {
+bool buscarEnCola(Cola<int>& cola, int clave) {
     while (!cola.esVacia()) {
         if (cola.peek()== clave) {
             return true; // Si encuentra el número
