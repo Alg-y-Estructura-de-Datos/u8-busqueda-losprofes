@@ -4,12 +4,19 @@
 using namespace std;
 
 // Función para buscar un número en una pila
-bool buscarEnPila(Pila<int> pila, int clave) {
+bool buscarEnPila(Pila<int>& pila, int clave) {
+    Pila<int> auxPila;
     while (!pila.esVacia()) {
         if (pila.peek() == clave) {
+            while (!auxPila.esVacia()) {
+                pila.push(auxPila.pop());
+            }
             return true; // Si encuentra el número
         }
-        pila.pop(); // Elimina el elemento superior y continúa buscando
+        auxPila.push(pila.pop()); // Elimina el elemento superior y continúa buscando
+    }
+    while (!auxPila.esVacia()) {
+        pila.push(auxPila.pop());
     }
     return false; // Si no se encuentra el número
 }

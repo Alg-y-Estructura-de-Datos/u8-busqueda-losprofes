@@ -1,0 +1,101 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "U08-E01::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-U08-E01-Debug-2cc24c8a86595f9b5547.json",
+					"name" : "U08-E01",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "U08-E02::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-U08-E02-Debug-582414478a1d1dfa2c8e.json",
+					"name" : "U08-E02",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "U08-E03::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-U08-E03-Debug-2008ba7e359c3c3648c2.json",
+					"name" : "U08-E03",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "U08-E04::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-U08-E04-Debug-8d091b811f8cae64b310.json",
+					"name" : "U08-E04",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "U08-E05::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-U08-E05-Debug-d7d3ca9ea87201ed6a37.json",
+					"name" : "U08-E05",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "U08-E06::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-U08-E06-Debug-aa8b83e10ffa257f268e.json",
+					"name" : "U08-E06",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/cc.ing/Desktop/u8-busqueda-losprofes/cmake-build-debug",
+		"source" : "C:/Users/cc.ing/Desktop/u8-busqueda-losprofes"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
